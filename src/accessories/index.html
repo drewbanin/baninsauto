@@ -1,17 +1,7 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <title>Banin's Auto Supply - Car Customization | Trevose, PA</title>
-        <meta name="description" content="Personalize your truck, SUV, or COV with custom accessories, wheels and tires from Banin's Auto Supply. Stereos, 12 volt electronics. Call 215-364-0215." />
-        <meta name="keywords" content="Custom Tires, Custom Wheels, SUV Accessories, CUV Accessories, Truck Accessories, 12-V Electronics" />
-        <meta property="og:type" content="website" />
-        <meta property="og:title" content="Banin's Auto Supply" />
-        <meta property="og:url" content="http://baninsauto.com" />
-        <meta property="og:image" content="http://baninsauto.com/communities/9/000/000/217/299/previews/epLFITkASOgtRkZAPAA3pw.jpg" />
-
-
-        <link rel='stylesheet' href='/styles.css'>
-        <link rel="stylesheet" href="/_app/8587604/sm6/styles/styles.min.css">
+        {% include "templates/header.html" %}
     </head>
     <body>
 
@@ -19,38 +9,9 @@
         <div class="pagePadding">
             <div id="pageAlignment" class="pageAlignment">
                 <div id="pageContent" class="pageContent">
-                    <ul class="menu horizontal primary_navbar">
-                        <li class="menuItem">
-                        <a href="/" class="menuItemDesign"><span>Home</span></a>
-                        </li>
-                        <li class="menuItem ">
-                        <a href="/wheels-tires/" class="menuItemDesign"><span>Wheels &amp; Tires</span></a>
-                        </li>
-                        <li class="menuItem selected">
-                        <a href="/accessories/" class="menuItemDesign"><span>Accessories</span></a>
-                        </li>
-                        <li class="menuItem ">
-                        <a href="/electronics/" class="menuItemDesign"><span>Electronics</span></a>
-                        </li>
-                        <li class="menuItem ">
-                        <a href="/gallery/" class="menuItemDesign"><span>Gallery</span></a>
-                        </li>
-                        <li class="menuItem ">
-                        <a href="/contact/" class="menuItemDesign"><span>Contact</span></a>
-                        </li>
-                    </ul>
-                    <img src="/communities/9/000/000/217/299//images/604306.png" alt="Banin's Auto Supply" class="primary_logo" />
-                    <div class="phone_number title">
-                        <h1 class="p0">
-                            <span class="c0"><a href="tel:2153573783" target="_self">2 1 5 - 3 5 7 - 3 7 8 3</a></span>
-                        </h1>
-                    </div>
-                    <a href="http://www.facebook.com/pages/Banins-Auto/134653316552670?rf=142851852428160" target="_blank" ><img src="/communities/9/000/000/217/299//images/6378325_35x35.png" alt="facebook logo-blue" class="fb_link" /></a>
-                    <div class="financing_info title">
-                        <h1 class="p0">
-                            <span class="c0">Financing Now Available!</span>
-                        </h1>
-                    </div>
+
+                    {% set selected = 'accessories' %}
+                    {% include "templates/menu.html" %}
 
                     <img src="/communities/9/000/000/217/299//images/606153_983x400.png" alt="Custom tailored trucks" title="Custom tailored trucks" class="main_img" />
 
