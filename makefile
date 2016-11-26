@@ -2,5 +2,5 @@
 build:
 	python build.py
 
-deploy:
-	surge
+deploy: build
+	surge dist
