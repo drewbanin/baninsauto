@@ -591,6 +591,40 @@
   min-height: 1200px;
   z-index: 0;
 }
+
+.page_gallery_gallery {
+  left: 0px;
+  top: 170px;
+  position: absolute;
+  height: 1450px;
+  width: 980px;
+  z-index: 22;
+}
+.page_gallery_gallery li {
+  float: left;
+  width: 180px;
+  height: 190px;
+  position: relative;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.page_gallery_gallery li.row-end {
+  margin-right: 0px;
+}
+.page_gallery_gallery li a {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 2;
+}
+.page_gallery_gallery .background {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  height: 190px;
+  width: 180px;
+  z-index: 1;
+}
 body {
   background-color: #000000;
   background-image: url('/communities/9/000/000/217/299//images/604711.png');
