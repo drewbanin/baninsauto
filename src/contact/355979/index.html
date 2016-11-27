@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include "templates/header.html" %}
+    </head>
+    <body>
+
+        <div class="pageOffset"></div>
+        <div class="pagePadding">
+            <div id="pageAlignment" class="pageAlignment">
+                <div id="pageContent" class="pageContent">
+                    {% set selected = 'contact' %}
+                    {% include "templates/menu.html" %}
+
+                    <div class="main_img">
+                        <iframe
+                          width="100%"
+                          height="100%"
+                          frameborder="0" style="border:0"
+                          src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBrMPCx3_dOKwCTITQjFs8lLqkYpTBR3EI
+                            &q=Banin's+Auto+Supply+Trevose,+PA" allowfullscreen>
+                        </iframe>
+                    </div>
+
+                    <!-- bottom content -->
+
+                    <div class="home_top_1 title">
+                        <h1 class="p0">
+                            <span class="c0">Contact us today!</span>
+                        </h1>
+                    </div>
+
+                    <div class='home_left_1_img' style='color: #fff'>
+                        <ul style='list-style-type: none; list-style: none; padding: 0; margin:0'>
+                            <li style='color: #ffab03'>
+                                Phone:
+                            </li>
+                            <li style='margin-bottom: 15px;'><a href="tel:2153573783" target="_self">215-357-3783</a></li>
+
+                            <li style='color: #ffab03'>Email</li>
+                            <li style='margin-bottom: 15px;'>
+                                baninsauto@verizon.net
+                            </li>
+
+                            <li style='color: #ffab03'>Address:</li>
+                            <li style='margin-bottom: 15px;'>
+                                Banin's Auto<br />1820 Brownsville Rd.,<br />Trevose, PA, 19053
+                            </li>
+                        </ul>
+                    </div>
+
+                    <img class='home_right_1_img' src='/communities/9/000/000/217/299/images/604367.png' alt="the shop" title="The Shop">
+
+                    <div id="footer" class="footer">
+                        <div class="subfooter body">
+                            <p class="p0">
+                                <span class="c0">© Banin's Auto Supply, 2016</span>
+                            </p>
+                        </div>
+
+                        <img class="line footer_line" src="/_imgstore/9/217299/footer_fhj3PdYnozII5mJODr26K/3EGQZ9TJEhlQZh3qFeDXdSUhY0A.png" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
