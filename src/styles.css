@@ -538,8 +538,10 @@
   left: 0px;
   top: 431px;
   position: absolute;
+  /*
   height: 55px;
   width: 660px;
+  */
   z-index: 25;
   border-style: solid;
   -webkit-border-radius: 0px;
@@ -590,12 +592,15 @@
 
 }
 .page_wheels_tires_2 {
+  /*
   left: 20px;
   top: 442px;
   position: absolute;
-  padding: 2px;
-  width: 616px;
+  width: 700px;
   min-height: 60px;
+  */
+  padding: 10px 15px;
+  width: auto;
   font-size: 26px;
   font-weight: 400;
   line-height: 30.0px;

@@ -14,14 +14,19 @@
 
                     <img src="/communities/9/000/000/217/299//images/605745_983x400.png" alt="Good sound system" title="Good sound system" class="main_img" />
 
-                    <div class="simpleRectangle text_box_1"></div>
+                    <div class="simpleRectangle text_box_1">
+                        <div class="page_wheels_tires_2 title">
+                            <h1 class="p0">
+                                {% if location is defined %}
+                                    <span style='font-size: 24px' class="c0">{{ h1 }} near {{ location }}, {{ state }}</span>
+                                {% else %}
+                                    <span style='font-size: 24px' class="c0">{{ h1 }}</span>
+                                {% endif %}
+                            </h1>
+                        </div>
+                    </div>
                     <div class="simpleRectangle text_box_2"></div>
 
-                    <div class="page_wheels_tires_2 title">
-                        <h1 class="p0">
-                            <span style='font-size: 24px' class="c0">{{ h1 }}</span>
-                        </h1>
-                    </div>
 
                     <div class="page_wheels_tires_1 body">
                         <p class="p0">

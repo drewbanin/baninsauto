@@ -30,8 +30,6 @@ def copy_file(source_path, rel_path, dest_path):
         os.makedirs(dirname)
 
     if source_path.endswith('.html') and not source_path.startswith('src/scripts'):
-        # template vars if needed
-
         parts = source_path.split("/")
         context = {}
 
@@ -44,14 +42,41 @@ def copy_file(source_path, rel_path, dest_path):
         template = template_env.get_template(rel_path)
         contents = template.render(**context)
 
+        # write the "base" html file
         with open(dest_path, 'w') as fh:
             fh.write(contents)
+
+        # then do it for every location! lol
+        if len(parts) == 4:
+            parts = dest_path.split("/")
+            for location in site_config["locations"]:
+                print(".", end=" ")
+                # update context with location information
+
+                # skip the stupid integer subdirs
+                try:
+                    int(parts[2])
+                    continue
+                except ValueError:
+                    pass
+
+                context.update(location)
+                dest_parts = parts[:3] + [location['location']] + parts[3:]
+                dest_file = "/".join(dest_parts)
+                dest_path = os.path.dirname(dest_file)
+
+                if not os.path.exists(dest_path):
+                    os.makedirs(dest_path)
+
+                contents = template.render(**context)
+
+                with open(dest_file, 'w') as fh:
+                    fh.write(contents)
+            print()
 
     else:
         # simple file copy if non-html
         shutil.copy2(source_path, dest_path)
-
-
 
 def copy_files(source, dest):
     for (source_path, relpath) in walk_files(source):
