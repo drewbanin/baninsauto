@@ -13,6 +13,8 @@
         {% for location in locations %}
             {% if link_to_locations %}
                 <span><a href="../{{ location['location'] }}">{{ location['location'] }}</a></span>
+            {% elif inv_link_to_locations %}
+                <span><a href="./{{ location['location'] }}">{{ location['location'] }}</a></span>
             {% else %}
                 <span>{{ location['location'] }}</span>
             {% endif %}

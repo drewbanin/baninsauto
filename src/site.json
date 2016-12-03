@@ -207,6 +207,8 @@
         {"state": "PA", "county": "Montgomery County", "location": "Whitemarsh"},
         {"state": "PA", "county": "Montgomery County", "location": "Whitpain"},
         {"state": "PA", "county": "Montgomery County", "location": "Worcester"},
+        {"state": "PA", "county": "Philadelphia", "location": "Philadelphia"},
+        {"state": "PA", "county": "Philadelphia", "location": "Manayunk"},
         {"state": "PA", "county": "Philadelphia", "location": "19019"},
         {"state": "PA", "county": "Philadelphia", "location": "19101"},
         {"state": "PA", "county": "Philadelphia", "location": "19102"},
