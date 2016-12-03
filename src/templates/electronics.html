@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include "templates/header.html" %}
+    </head>
+    <body>
+        <div class="pageOffset"></div>
+        <div class="pagePadding">
+            <div id="pageAlignment" class="pageAlignment">
+                <div id="pageContent" class="pageContent">
+
+                    {% set selected = 'electronics' %}
+                    {% include "templates/menu.html" %}
+
+                    <img src="/communities/9/000/000/217/299//images/605745_983x400.png" alt="Good sound system" title="Good sound system" class="main_img" />
+
+                    <div class="simpleRectangle text_box_1"></div>
+                    <div class="simpleRectangle text_box_2"></div>
+
+                    <div class="page_wheels_tires_2 title">
+                        <h1 class="p0">
+                            <span style='font-size: 24px' class="c0">{{ h1 }}</span>
+                        </h1>
+                    </div>
+
+                    <div class="page_wheels_tires_1 body">
+                        <p class="p0">
+                            <span class="c0">{{ h2 }}</span>
+                        </p>
+                    </div>
+
+                    <!-- bottom content -->
+
+                    <div class="home_top_1 title">
+                        <h1 class="p0">
+                            <span class="c0">{{ h1 }}. Call today: <a href="tel:2153573783" target="_self">215-357-3783</a></span>
+                        </h1>
+                    </div>
+
+                    <div class="home_left_1 body">
+                        <p class="p0">
+                            <span class="c0">{{ h2 }}</span>
+                        </p>
+                    </div>
+
+
+                    <div class='home_left_1_img'>
+                        <h4 style='color: #ffab03; margin-bottom: 5px;'>{{ list_header }}</h4>
+                        <ul class='specialties_list'>
+                            {% for item in list_items %}
+                            <li>{{ item }}</li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+
+                    <div class='home_right_1_img'>
+                        <img style="width: 100%; margin-top: -80px" src='/communities/9/000/000/217/299/images/13148776.png' alt="sweet truck" title="Sweet truck">
+                    </div>
+
+
+
+                    <div class="home_left_text_3 title">
+                        <h1 class="p0">
+                            <span class="c0">{{ left_header }}</span>
+                        </h1>
+                    </div>
+
+                    <div class="home_left_text_2 body">
+                        <p class="p0">
+                            <span class="c0">{{ left_contents }}</span>
+                        </p>
+                    </div>
+
+                    <div class="home_right_text_3 title">
+                        <h1 class="p0">
+                            <span class="c0">{{ right_header }}</span>
+                        </h1>
+                    </div>
+                    <div class="home_right_text_2 body">
+                        <p class="p0">
+                            <span class="c0">{{ right_contents }}</span>
+                        </p>
+                    </div>
+
+                    <div id="footer" class="footer">
+                        <div class="subfooter body">
+                            <p class="p0">
+                                <span class="c0">&copy; Banin's Auto Supply, 2016</span>
+                            </p>
+                        </div>
+
+                        <img class="line footer_line" src="/_imgstore/9/217299/footer_fhj3PdYnozII5mJODr26K/3EGQZ9TJEhlQZh3qFeDXdSUhY0A.png" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

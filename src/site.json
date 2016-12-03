@@ -25,33 +25,66 @@
                 "path": "car-alarms",
                 "name": "Car & Truck Alarms",
                 "h1": "Professionally installed car and truck alarms",
-                "divs": [
-                    "Car alarms professionally installed available with remote car starter, GPS Tracking and Smart Start which lets you activate and monitor through your smart phone."
-                ]
+                "h2": "Car alarms professionally installed available with remote car starter, GPS Tracking and Smart Start which lets you activate and monitor through your smart phone.",
+                "list_header": "Car Alarms featuring:",
+                "list_items": [
+                    "Keyless Entry",
+                    "GPS Tracking",
+                    "Remote car starers",
+                    "Smart phone monitoring"
+                ],
+                "left_header": "More Info",
+                "left_contents": "Protect your vehicle from theft with professionally installed car alarms at Banin's Auto. Track your car's location with built-in GPS tracking integrated directly into your iOS or Android phone."
             },
             "radios": {
                 "path": "radios",
-                "name": "Car & Truck Radios",
+                "name": "Car &amp; Truck Radios",
                 "h1": "Professionally installed car and truck radios",
-                "divs": [
-                    "Car and truck radio featuring Pioneer products, and replacement speakers professionally installed, as well as new car audio and entertainment systems. Available with back up camera, navigation, Bluetooth, USB integration, and compatible with Android or Apple phones."
-                ]
+                "h2": "Overhaul your car or truck with professionally installed radios at Banin's Auto. We professionally install everything from subwoofers to backup-cameras.",
+                "list_header": "Car &amp; Truck radios featuring:",
+                "list_items": [
+                    "Replacement speakers",
+                    "New audio and entertainment systems",
+                    "Backup camera",
+                    "Integrated navigation",
+                    "Bluetooth connection",
+                    "USB integration",
+                    "Compatible with iOS and Android"
+                ],
+                "left_header": "Car &amp; Truck Radios",
+                "left_contents": "Car and truck radio solutions featuring Pioneer products, and replacement speakers professionally installed, as well as new car audio and entertainment systems. Available with back up camera, navigation, Bluetooth, USB integration, and compatible with Android or Apple phones.",
+                "right_header": "More Information",
+                "right_contents": "Whether you're listening to Springsteen or Yung Jeezy, you need a bumpin' soundsystem. Want to blast the Thunder Road?? We won't judge. Overhaul your audio and entertainment system at Banin's."
             },
-            "lighting": {
-                "path": "lighting",
+            "headlights": {
+                "path": "headlights",
                 "name": "LED headlights, foglights, and more",
-                "h1": "Professionally installed headlights, foglights, and more",
-                "divs": [
-                    "Improve your night time visibility with ultra bright LED headlight, fog light, and driving light solutions featuring Rigid Lighting, United Lighting, and Vision X."
-                ]
+                "h1": "Professionally installed headlights &amp; more",
+                "h2": "Improve your night time visibility with ultra bright LED headlight, fog light, and driving light solutions featuring Rigid Lighting, United Lighting, and Vision X.",
+                "list_header": "Headlights featuring:",
+                "list_items": [
+                    "LED headlights",
+                    "Foglights",
+                    "Driving lights",
+                    "Rigid Lighting",
+                    "United Lighting",
+                    "Vision X"
+                ],
+                "left_header": "More info",
+                "left_contents": "Bad nighttime vision? Light up the whole block with our ultra-bright LED headlights. We also offer professionally installed foglights, perfect for your car or truck."
             },
             "strobe-lighting": {
                 "path": "strobe-lighting",
                 "name": "Strobe Lighting",
                 "h1": "Professionally installed strobe lighting",
-                "divs": [
-                    "Professionally installed emergency strobe lighting for construction vehicles as well as LED blue lights for volunteer firemen."
-                ]
+                "h2": "Professionally installed emergency strobe lighting for construction vehicles as well as LED blue lights for volunteer firemen.",
+                "list_header": "Perfect for:",
+                "list_items": [
+                    "Construction vehicles",
+                    "Volunteer firemen"
+                ],
+                "left_header": "In a hurry?",
+                "left_contents": "Let people know with professionally installed emergency strobe lighting. LED lighting also available, perfect for volunteer firemen"
             }
         },
         "gallery": {},
