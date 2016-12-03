@@ -1,7 +1,7 @@
 
 build:
-	rm -rf dist
-	mkdir dist
+	mkdir -p dist
+	rm -rf dist/*
 	python build.py
 
 deploy: build
