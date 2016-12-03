@@ -32,12 +32,15 @@ def copy_file(source_path, rel_path, dest_path):
     if source_path.endswith('.html') and not source_path.startswith('src/scripts'):
         parts = source_path.split("/")
         context = {}
+        context['locations'] = site_config['locations']
 
         if len(parts) == 4:
             path_parts = parts[1:-1]
             context = site_config["topics"]
             context = context.get(path_parts[0], {})
             context = context.get(path_parts[1], {})
+            context['locations'] = site_config['locations']
+            context['link_to_locations'] = False
 
         template = template_env.get_template(rel_path)
         contents = template.render(**context)
@@ -49,6 +52,7 @@ def copy_file(source_path, rel_path, dest_path):
         # then do it for every location! lol
         if len(parts) == 4:
             parts = dest_path.split("/")
+            context['link_to_locations'] = True
             for location in site_config["locations"]:
                 print(".", end=" ")
                 # update context with location information

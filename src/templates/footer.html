@@ -1,0 +1,22 @@
+<div id="footer" class="footer">
+    <div class="subfooter body">
+        <p class="p0">
+            <span class="c0">&copy; Banin's Auto Supply, 2016</span>
+        </p>
+    </div>
+
+    <img class="line footer_line" src="/_imgstore/9/217299/footer_fhj3PdYnozII5mJODr26K/3EGQZ9TJEhlQZh3qFeDXdSUhY0A.png" />
+
+    <p style="color: white; font-size: 10px; position: absolute; top: 90px">
+        <span style="color: #ffab03">Proudly serving:</span>
+        <!-- link_to_locations = '{{ link_to_locations }}' -->
+        {% for location in locations %}
+            {% if link_to_locations %}
+                <span><a href="../{{ location['location'] }}">{{ location['location'] }}</a></span>
+            {% else %}
+                <span>{{ location['location'] }}</span>
+            {% endif %}
+        {% endfor %}
+    </p>
+
+</div>
