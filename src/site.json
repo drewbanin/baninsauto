@@ -1,7 +1,32 @@
 {
     "topics": {
         "home": {},
-        "wheels-tires": {},
+        "wheels-tires": {
+            "custom": {
+                "path": "custom-wheels",
+                "name": "Custom Wheels &amp; Tires",
+                "h1": "Custom wheels &amp; tires at discount prices",
+                "h2": "Custom wheels, rims, and tires for your Dodge, Ram, Ford,  Silverado, Sierra, Toyoya, Nissan and Jeep, are available at discount prices.",
+                "list_header": "Banin's Auto is a distributor for brands like:",
+                "list_items": [
+                    "American Racing",
+                    "Cragar",
+                    "XD",
+                    "Helo",
+                    "Motegi Racing",
+                    "Fuel Off Road",
+                    "Niche",
+                    "MHT",
+                    "Moto Metal",
+                    "Ion Alloy",
+                    "And much, much more!"
+                ],
+                "left_header": "Custom wheels &amp; tires",
+                "left_contents": "Banins auto specializes in fitting oversize wheels and tires without rubbing. All of our wheels and tires are sold at discount prices and are installed by professionals.",
+                "right_header": "Carrying brands including:",
+                "right_contents": "American Racing &#8226; Cragar &#8226; XD &#8226; Helo &#8226; Motegi Racing &#8226; Fuel Off Road &#8226; Niche &#8226; MHT &#8226; Moto Metal &#8226; Ion Alloy &#8226; Pro Comp &#8226; Mickey Thompson &#8226; Ultra Wheel &#8226; Vossen &#8226; WTW &#8226; 2 Crave &#8226; Worx &#8226; U2 &#8226; Element &#8226; Giovanni &#8226; Lexani &#8226; TSW &#8226; Savini &#8226; RBP &#8226; Ace &#8226; Asanti &#8226; Foose &#8226; US Mag &#8226; Factory Reproductions &#8226; OE Replicas &#8226; Ace &#8226; Alcoa &#8226; American Force &#8226; Stance &#8226; Symbolic &#8226; TIS &#8226; Drop Stars,,XIX &#8226; Weld Racing &#8226; BMF &#8226; Cruiser Alloy &#8226; Enkei &#8226; DUB &#8226; Mamba Wheels &#8226; Method Race Wheels &#8226; Vertini"
+            }
+        },
         "accessories": {},
         "electronics": {
             "remote-start": {

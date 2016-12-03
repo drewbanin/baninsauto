@@ -3,7 +3,14 @@
         <a href="/" class="menuItemDesign"><span>Home</span></a>
     </li>
     <li class="menuItem {% if selected == 'wheels-tires' %} selected {% endif %}">
-        <a href="/wheels-tires/" class="menuItemDesign"><span>Wheels &amp; Tires</span></a>
+        <a href="/wheels-tires" class="menuItemDesign"><span>Wheels &amp; Tires</span></a>
+        <div class='dropdown-content'>
+            <ul>
+                <li>
+                    <a href='/wheels-tires/custom'>Custom Wheels &amp; Tires</a>
+                </li>
+            </ul>
+        </div>
     </li>
     <li class="menuItem {% if selected == 'accessories' %} selected {% endif %}">
         <a href="/accessories/" class="menuItemDesign"><span>Accessories</span></a>
