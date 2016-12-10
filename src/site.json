@@ -6,7 +6,7 @@
                 "path": "custom-wheels",
                 "name": "Custom Wheels &amp; Tires",
                 "h1": "Custom wheels &amp; tires at discount prices",
-                "h2": "Custom wheels, rims, and tires for your Dodge, Ram, Ford,  Silverado, Sierra, Toyoya, Nissan and Jeep, are available at discount prices.",
+                "h2": "Banins Auto specializes in finding  the wheel and tire combination that best suits the look you want, the utility you need, and stays within your budget.",
                 "list_header": "Banin's Auto is a distributor for brands like:",
                 "list_items": [
                     "American Racing",
@@ -24,10 +24,156 @@
                 "left_header": "Custom wheels &amp; tires",
                 "left_contents": "Banins auto specializes in fitting oversize wheels and tires without rubbing. All of our wheels and tires are sold at discount prices and are installed by professionals.",
                 "right_header": "Carrying brands including:",
-                "right_contents": "American Racing &#8226; Cragar &#8226; XD &#8226; Helo &#8226; Motegi Racing &#8226; Fuel Off Road &#8226; Niche &#8226; MHT &#8226; Moto Metal &#8226; Ion Alloy &#8226; Pro Comp &#8226; Mickey Thompson &#8226; Ultra Wheel &#8226; Vossen &#8226; WTW &#8226; 2 Crave &#8226; Worx &#8226; U2 &#8226; Element &#8226; Giovanni &#8226; Lexani &#8226; TSW &#8226; Savini &#8226; RBP &#8226; Ace &#8226; Asanti &#8226; Foose &#8226; US Mag &#8226; Factory Reproductions &#8226; OE Replicas &#8226; Ace &#8226; Alcoa &#8226; American Force &#8226; Stance &#8226; Symbolic &#8226; TIS &#8226; Drop Stars,,XIX &#8226; Weld Racing &#8226; BMF &#8226; Cruiser Alloy &#8226; Enkei &#8226; DUB &#8226; Mamba Wheels &#8226; Method Race Wheels &#8226; Vertini"
+                "right_contents": "American Racing &#8226; Cragar &#8226; XD &#8226; Helo &#8226; Motegi Racing &#8226; Fuel Off Road &#8226; Niche &#8226; MHT &#8226; Moto Metal &#8226; Ion Alloy &#8226; Pro Comp &#8226; Mickey Thompson &#8226; Ultra Wheel &#8226; Vossen &#8226; WTW &#8226; 2 Crave &#8226; Worx &#8226; U2 &#8226; Element &#8226; Giovanni &#8226; Lexani &#8226; TSW &#8226; Savini &#8226; RBP &#8226; Ace &#8226; Asanti &#8226; Foose &#8226; US Mag &#8226; Factory Reproductions &#8226; OE Replicas &#8226; Ace &#8226; Alcoa &#8226; American Force &#8226; Stance &#8226; Symbolic &#8226; TIS &#8226; Drop Stars, XIX &#8226; Weld Racing &#8226; BMF &#8226; Cruiser Alloy &#8226; Enkei &#8226; DUB &#8226; Mamba Wheels &#8226; Method Race Wheels &#8226; Vertini"
+            },
+            "tires": {
+                "name": "Custom Wheels &amp; Tires",
+                "h1": "Custom wheels &amp; tires at discount prices",
+                "h2": "Banins Auto specializes in finding the wheel and tire combination that best suits the look you want, the utility you need, and stays within your budget.",
+                "list_header": "Banin's Auto is a distributor for brands like:",
+                "list_items": [
+                    "Toyo",
+                    "Nitto",
+                    "AMP",
+                    "BF Goodrich",
+                    "Goodyear",
+                    "Michelin",
+                    "Pirelli",
+                    "Cooper",
+                    "Bridgestone",
+                    "&amp; more!"
+                ],
+                "left_header": "Custom wheels &amp; tires",
+                "left_contents": "Banins auto specializes in fitting oversize wheels and tires without rubbing. All of our wheels and tires are sold at discount prices and are installed by professionals.",
+                "right_header": "Chose from brands like...",
+                "right_contents": "Toyo, Nitto, AMP, BF Goodrich, Goodyear, Michelin, Pirelli, Cooper, Bridgestone, Mickey Thompson, Firestone, Dick Cepek, and General, as well as various private label tires. Whether looking for Mud Terrain, All Terrain, Sport Truck, All Purpose, Touring, High Performance, Ultra High Performance, Soft Compound, Drag Radials, Low Profile or trailer tires, we have plenty to choose from."
             }
         },
-        "accessories": {},
+        "accessories": {
+            "suspension": {
+                "name": "Lift &amp; Lowering Kits",
+                "h1": "Professionally installed lift and lowering kits",
+                "h2": "Trick out your Jeep, truck, or SUV with a lift kit, professionally installed at Banin's Auto",
+                "list_header": "We install:",
+                "list_items": [
+                    "Rough Country",
+                    "Ready Lift",
+                    "Fabtech",
+                    "Rancho",
+                    "Trailmaster",
+                    "Skyjacker",
+                    "Procomp",
+                    "Rubicon Express",
+                    "Teraflex and Daystar"
+                ],
+                "left_header": "Professionally installed lift and lowering kits",
+                "left_contents": "",
+                "right_header": "Lift kits for any Jeep, truck, or SUV",
+                "right_contents": "If you want to run larger tires, rock an imposing look, or crank up performance on the trails, Banin's carries a lift kit to fit your Jeep, truck, or SUV."
+            },
+            "tonneau-covers": {
+                "name": "Tonneau Covers",
+                "h1": "Professionally installed tonneau covers and bed liners",
+                "h2": "Style and protect your truck bed with a tonneau cover from Banin's Auto",
+                "list_header": "We carry:",
+                "list_items": [
+                    "Extang tonneau covers",
+                    "BAK tonneau covers",
+                    "Roll N' Lock tonneau covers",
+                    "Undercover tonneau covers",
+                    "Hard folding tonneau covers",
+                    "Soft tonneau covers",
+                    "Roll up tonneau covers",
+                    "Fiberglass tonneau covers"
+                ],
+                "left_header": "Tonneau Covers",
+                "left_contents": "Perfectly matched custom color tonneau covers to fit your Ford, Chevy, GMC, Toyota or Nissan",
+                "right_header": "Bed Liners",
+                "right_contents": "Custom fit bed liners for pickup trucks that protects and preserves the truck bed."
+            },
+            "hitches": {
+                "name": "Hitches",
+                "h1": "Professionally installed hitches for your car, truck or SUV",
+                "h2": "Find the perfect trailer hitch for your car, truck, or SUV, professionally installed at Banin's Auto",
+                "list_header": "We install and wire:",
+                "list_items": [
+                    "Curt hitches",
+                    "Draw Tite hitches",
+                    "Reese Hitches",
+                    "Hidden Hitches"
+                ],
+                "left_header": "The perfect hitch for your car, truck, or SUV",
+                "left_contents": "At Banin's, we professionally install and wire trailer hitches for your car, truck or SUV. Tow with confidence and syle with trailer hitches from Banin's.",
+                "right_header": "",
+                "right_contents": ""
+            },
+            "step-bars": {
+                "name": "Step Bars",
+                "h1": "Professionally installed step bars for your truck",
+                "h2": "Style your truck with functional step bars, nerf bars, and running boards installed professionally at Banin's Auto.",
+                "list_header": "We install:",
+                "list_items": [
+                    "AMP Research",
+                    "Westin",
+                    "Lund",
+                    "Smittybilt",
+                    "Raptor",
+                    "RBP",
+                    "N Fab",
+                    "Luverne",
+                    "Go Rhino"
+                ],
+                "left_header": "Step in treatments",
+                "left_contents": "Style your truck with looks and convenience of step bars, nerf bars, and running boards. All step in treatments are professionally installed at Banin's Auto",
+                "right_header": "",
+                "right_contents": ""
+            },
+            "bumpers": {
+                "name": "Bumpers",
+                "h1": "Professionally installed front and rear bumpers",
+                "h2": "Style and protect your car, truck, or SUV with front and rear bumpers, professionally installed at Banin's Auto",
+                "list_header": "We carry and install",
+                "list_items": [
+                    "Smittybilt bumpers",
+                    "Rampage bumpers",
+                    "Warn bumpers",
+                    "Fab Fours bumpers ",
+                    "Rugged Ridge bumpers ",
+                    "Go Rhino bumpers ",
+                    "Iron Cross bumpers",
+                    "Ranch Hand bumpers",
+                    "Paramount bumpers",
+                    "MBRP bumpers",
+                    "and more!"
+                ],
+                "left_header": "Style &amp; Protect your Truck",
+                "left_contents": "Style and protect your truck with professionally installed front and rear bumpers from Banin's Auto Supply.",
+                "right_header": "We also carry...",
+                "right_contents": "We also carry and install protective rubber strips, bull bars, grille guards, and auxillary light mounts. Perfect for your Jeep or truck, and professionally installed at Banin's Auto."
+            },
+            "vehicle-protection": {
+                "name": "Vehicle protection",
+                "h1": "Protect your vehicle inside and out",
+                "h2": "Style and protect your vehicle inside and out with floor and cargo liners, seat covers and more at Banin's Auto",
+                "list_header": "We carry:",
+                "list_items": [
+                    "Laser measured floor and cargo liners",
+                    "Splash guards",
+                    "Sun shields",
+                    "Sunroof wind deflectors",
+                    "Perfect-fit channel side window deflectors",
+                    "Hood protection",
+                    "Bug shields",
+                    "Car covers",
+                    "Seat covers",
+                    "and more!"
+                ],
+                "left_header": "Protect your vehicle's interior",
+                "left_contents": "We carry the Entire Weathertech line, from laser measured floor liners and cargo liners, to splash guards, sun shields, sunroof wind deflectors, and perfectly fitting in channel side window deflectors. Protect your car or truck seats from wear and staining  with  WetOkole neoprene waterproof auto seat covers, designed for those with an active lifestyle. These waterproof auto and truck seat covers come in a variety of styles and colors, and are custom tailored to fit like a glove.",
+                "right_header": "Protect your vehicle's exterior",
+                "right_contents": "Hood protection and bug shields from AVS, Lund, Stampede, Rugged Ridge, Putco, and Wade. Car covers from Covercraft, Wolf, & Coverking in a variety of fabrics from multi fit to custom tailored to you specific car or truck."
+            }
+        },
         "electronics": {
             "remote-start": {
                 "path": "remote-start",
