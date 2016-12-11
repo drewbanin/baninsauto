@@ -172,6 +172,151 @@
                 "left_contents": "We carry the Entire Weathertech line, from laser measured floor liners and cargo liners, to splash guards, sun shields, sunroof wind deflectors, and perfectly fitting in channel side window deflectors. Protect your car or truck seats from wear and staining  with  WetOkole neoprene waterproof auto seat covers, designed for those with an active lifestyle. These waterproof auto and truck seat covers come in a variety of styles and colors, and are custom tailored to fit like a glove.",
                 "right_header": "Protect your vehicle's exterior",
                 "right_contents": "Hood protection and bug shields from AVS, Lund, Stampede, Rugged Ridge, Putco, and Wade. Car covers from Covercraft, Wolf, & Coverking in a variety of fabrics from multi fit to custom tailored to you specific car or truck."
+            },
+            "fender-flares-and-mud-flaps": {
+                "name": "Fender Flares and Mud Flaps",
+                "h1": "Fender Flares and Mud Flaps",
+                "h2": "Protect the paint and body of your Pickup, SUV or Jeep, from debris from off road workouts, oversize tires, or city driving with fender flares and mud flaps.",
+                "list_header": "We carry and install:",
+                "list_items": [
+                    "Bushwacker",
+                    "EGR",
+                    "Lund",
+                    "Rugged Ridge",
+                    "Rough Country",
+                    "and all other leading manufacturers"
+                ],
+                "left_header": "Fender Flares",
+                "left_contents": "Fender flares last for years and provide extra tire coverage to keep dirt and debris off of your vehicle. We professionally install fender flares and mudflaps at Banin's Auto",
+                "right_header": "",
+                "right_contents": ""
+            },
+            "jeep-body-armor": {
+                "name": "Jeep Body Armor",
+                "h1": "Jeep Body Armor",
+                "h2": "We carry a large selection of Jeep body armor designed to protect against off road stone and brush damage",
+                "list_header": "We carry:",
+                "list_items": [
+                    "Warrior corner guards",
+                    "Smittybilt XRC Flat Armor Skins",
+                    "Rugged Ridge Cowl Protection",
+                    "Bushwacker Trail Armor",
+                    "Smittybilt side rock rails",
+                    "N-Fab",
+                    "Paramount",
+                    "Westin",
+                    "Fab Fours",
+                    "Tail FX"
+                ],
+                "left_header": "Jeep Wrangler Body Armor",
+                "left_contents": "We carry Jeep body armor designed to protect the paint and body of your Jeep Wrangler. All body armor is professionally installed",
+                "right_header": "",
+                "right_contents": ""
+            },
+            "bull-bars": {
+                "name": "Bull Bars",
+                "h1": "Bull Bars, Grill Guards and Brush Guards -- professionally installed",
+                "h2": "Bull Bars, Grill Guards and Brush guards are designed for front end protection against damage from rocks and branches on the trail, or from aggressive city drivers",
+                "list_header": "Available with:",
+                "list_items": [
+                    "Hi-polished stainless steel",
+                    "Various black finishes",
+                    "Integrated LED lighting"
+                ],
+                "left_header": "Bull bars &amp; grill guards",
+                "left_contents": "Protect the front end of your truck with protective and stylish Bull Bars. Bull Bars and grill gaurds offer protection from hazards on and off road.",
+                "right_header": "Tail light guards and covers",
+                "right_contents": "We offer rear vehicle protection from tail light guards and covers, to rear bumper guards from Black Horse, and Steelcraft. "
+            },
+            "contractors": {
+                "name": "Contractors",
+                "h1": "Equip your vehicle for contracting work at Banin's",
+                "h2": "Contractors, find a complete line of equipment and storage management solutions for your van or pickup",
+                "list_header": "We carry:",
+                "list_items": [
+                    "KargoMaster and Weatherguard ladder racks",
+                    "Van shelving",
+                    "Bulkheads",
+                    "Tool boxes for pickups",
+                    "Drawers",
+                    "Complete van packages"
+                ],
+                "left_header": "",
+                "left_contents": "",
+                "right_header": "",
+                "right_contents": ""
+            },
+            "exhaust": {
+                "name": "Exhaust",
+                "h1": "Tune your exhaust system",
+                "h2": "A tuned exhaust system sound great and adds horsepower or fuel economy to your vehicle.",
+                "list_header": "We carry:",
+                "list_items": [
+                    "Flowmaster",
+                    "Borla",
+                    "Magnaflow",
+                    "Corsa",
+                    "Dynomax",
+                    "Gibson",
+                    "Pypes",
+                    "AEM",
+                    "AFE",
+                    "Banks",
+                    "MBRP",
+                    "Invidia",
+                    "BBK",
+                    "Flowtech",
+                    "Hooker"
+                ],
+                "left_header": "Tailor-made exhaust systems",
+                "left_contents": "Whether you’re looking for an out the the box gas performance or diesel performance exhaust system, or a custom built system with your choice of exit and tips, we can make it happen.",
+                "right_header": "",
+                "right_contents": ""
+            },
+            "cold-air-intake": {
+                "name": "Cold Air Intake Systems",
+                "h1": "Cold Air Intake Systems",
+                "h2": "Cold air intake systems complement an exhaust system for added horsepower and sound",
+                "list_header": "We carry:",
+                "list_items": [
+                    "AEMgAFE",
+                    "K&amp;N",
+                    "Air Raid",
+                    "Injen",
+                    "Volant",
+                    "Bully Dog",
+                    "BBK",
+                    "Rugged Ridge",
+                    "Takeda",
+                    "BD",
+                    "Corsa",
+                    "Skunk 2"
+                ],
+                "left_header": "High performacne air intake systems",
+                "left_contents": "Air intake systems are designed to eliminate the major sources of air flow restriction that your vehicle experiences from the factory intake system.",
+                "right_header": "",
+                "right_contents": ""
+            },
+            "brakes": {
+                "name": "High Performance Brakes",
+                "h1": "High Performance Braking Systems",
+                "h2": "If your vehicle goes faster, it needs to stop faster. We sell and install vented rotors, powder coated calipers in your choice of color, and big brake kits",
+                "list_header": "We carry:",
+                "list_items": [
+                    "Brembo",
+                    "Stoptech",
+                    "Baer",
+                    "Power Stop",
+                    "Wilwood",
+                    "EBC",
+                    "Hawk",
+                    "SP Performance",
+                    "and more!"
+                ],
+                "left_header": "",
+                "left_contents": "",
+                "right_header": "",
+                "right_contents": ""
             }
         },
         "electronics": {
