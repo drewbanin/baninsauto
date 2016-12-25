@@ -42,6 +42,7 @@ def copy_file(source_path, rel_path, dest_path):
             context['locations'] = site_config['locations']
             context['link_to_locations'] = False
             context['inv_link_to_locations'] = True
+            context['page_title'] = context.get('name', 'Car Customization')
 
         template = template_env.get_template(rel_path)
         contents = template.render(**context)
